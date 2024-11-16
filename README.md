@@ -22,6 +22,9 @@ This project demonstrates a **7-segment counter** implemented using the **MSP430
 3. Optional features include a reset button or manual increment through an interrupt-based push button.  
 4. The device operates in an energy-efficient manner by utilizing the MSP430's low-power modes when idle.  
 
+## MSP430 
+![image](https://github.com/user-attachments/assets/93021c7f-6c83-4ed1-8c36-2cf3ea2fed68)
+
 ## Simulation Video
 https://github.com/user-attachments/assets/8b2c0b37-8e40-4231-b79a-4b4a032b311a
 
