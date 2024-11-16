@@ -1,7 +1,7 @@
 # MSP430 7-Segment Counter  
 
 ## Overview  
-This project demonstrates a **7-segment counter** implemented using the **MSP430 microcontroller**, part of Texas Instruments' ultra-low-power MSP430 family. The MSP430 is designed for energy-efficient applications and features a powerful 16-bit RISC CPU, 16-bit registers, and optimized low-power modes. This project utilizes the MSP430's GPIO pins to drive a 7-segment display, incrementing the count value from 0 to 9 in a loop.  
+This project demonstrates a **7-segment counter** implemented using the **MSP430 microcontroller** . The MSP430 is designed for energy-efficient applications and features a powerful 16-bit RISC CPU, 16-bit registers, and optimized low-power modes. This project utilizes the MSP430's GPIO pins to drive a 7-segment display, incrementing the count value from 0 to 9 in a loop.  
 
 ## Features  
 - **Microcontroller**: MSP430 (Ultra-low-power, 16-bit RISC architecture).  
