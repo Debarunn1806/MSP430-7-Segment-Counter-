@@ -35,11 +35,3 @@ The code uses the MSP430's 16-bit CPU to control the segments dynamically. Each 
 3. Power on the circuit to see the 7-segment display counting from 0 to 9 in a loop.  
 4. (Optional) Press the reset button to reset the counter or increment manually.  
 
-## Files Included  
-- Source Code (C language) for MSP430.  
-- Circuit Diagram.  
-- Pin Mapping Table.  
-
----
-
-This project showcases the MSP430 microcontroller's capabilities in low-power applications while driving external hardware such as a 7-segment display.
