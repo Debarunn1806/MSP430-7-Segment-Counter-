@@ -29,9 +29,3 @@ https://github.com/user-attachments/assets/8b2c0b37-8e40-4231-b79a-4b4a032b311a
 ## Code Description  
 The code uses the MSP430's 16-bit CPU to control the segments dynamically. Each digit is represented by a bitmask for the 7-segment display. A timer or loop is used to increment the counter periodically.  
 
-## How to Use  
-1. Connect the 7-segment display to the MSP430 microcontroller as per the pin mapping.  
-2. Program the MSP430 with the provided firmware using an MSP430 programmer.  
-3. Power on the circuit to see the 7-segment display counting from 0 to 9 in a loop.  
-4. (Optional) Press the reset button to reset the counter or increment manually.  
-
